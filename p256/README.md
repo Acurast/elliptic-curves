@@ -47,7 +47,7 @@ like TLS and the associated X.509 PKI.
 
 ## Minimum Supported Rust Version
 
-Rust **1.56** or higher.
+Rust **1.57** or higher.
 
 Minimum supported Rust version can be changed in the future, but it will be
 done with a minor version bump.
